@@ -14,8 +14,7 @@
             alt="https://www.linkedin.com/in/deepak-kachhot-146151129/" height="30" width="40" />
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dkachhot21gmail.com" target="_blank">
-        <img align="center"
-            src="https://www.flaticon.com/svg/static/icons/svg/325/325208.svg"
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"
             alt="dkachhot21@gmail.com" height="30" width="40" />
     </a>
 </p>
